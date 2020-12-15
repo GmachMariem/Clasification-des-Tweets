@@ -1,9 +1,10 @@
 # Clasification-des-Tweets
 
-
-<h2>i.Prétraitement des tweetsDans cette étape, l’objectif est d’éliminer le texte inutile des tweets tels que les #, les noms des utilisateurs,les url, ...</h2>
-<h2>ii.Traitement destweets: NLP (Natural LanguageProcessing)On doit procéder à l’analyse du tweet en respectant les différentes étapes du NLP (Natural LanguageProcessing). La bibliothèque à utiliser est NLTK en Python.</h2>
-<h2> iii.Classification des tweetsEtant donné un ensemble de tweets, l’objectif est de les résumer sous formes de groupes de sorte à ce que les Tweets qui sont dans le même groupe soient similaires. Ainsi, l’utilisateur pourra par la suite lire juste un Tweet de chaque groupe (le Tweet qui est le centroïde de groupes). </h2>
+ 3 étapes pour faire Classification des Tweets: 
+ 
+- [Prétraitement des tweets](#Prétraitement des tweets)
+- [Traitement destweets: NLP (Natural LanguageProcessing)](#Traitement destweets: NLP (Natural LanguageProcessing))
+- [Classification des tweets](#Classification des tweets)
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GmachMariem/Clasification-des-Tweets/main)
