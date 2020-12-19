@@ -16,6 +16,13 @@ Etant donné un ensemble de tweets, l’objectif est de les résumer sous formes
 
 
 
+
+# CONCLUSION:
+A travers ce projet, nous avons pu encore une fois nous  rendre compte de la puissance du NLP qui a permis de classifier de manières fiable le sentiment des tweets. Cette analyse de sentiments Twitter pourrait avoir plusieurs domaines d’application dont voici quelques exemples spécifiques : 
+
+-La surveillance des médias sociaux : Détecter les tweets à sentiments négatifs pourrait permettre de réduire le harcèlement et le déferlement de violence se produisant sur Twitter
+-Campagnes politiques : L’analyse des sentiments sur Twitter pourrait permettre d’analyser la popularité d’un candidat politique et de prédire ainsi le vainqueur d’une élection présidentielle par exemple
+F-idéliser la clientèle d’une entreprise : L’analyse des sentiments sur Twitter permet de suivre ce qui se dit à propos d’un produit ou service vendu par une entreprise et peut ainsi aider à détecter les clients en colère. L’entreprise pourra ainsi. 
 ![Alt Text](tweet.gif)
 
 
@@ -24,9 +31,3 @@ Etant donné un ensemble de tweets, l’objectif est de les résumer sous formes
 
 
 
-CONCLUSION:
-A travers ce projet, nous avons pu encore une fois nous  rendre compte de la puissance du NLP qui a permis de classifier de manières fiable le sentiment des tweets. Cette analyse de sentiments Twitter pourrait avoir plusieurs domaines d’application dont voici quelques exemples spécifiques : 
-
-La surveillance des médias sociaux : Détecter les tweets à sentiments négatifs pourrait permettre de réduire le harcèlement et le déferlement de violence se produisant sur Twitter
-Campagnes politiques : L’analyse des sentiments sur Twitter pourrait permettre d’analyser la popularité d’un candidat politique et de prédire ainsi le vainqueur d’une élection présidentielle par exemple
-Fidéliser la clientèle d’une entreprise : L’analyse des sentiments sur Twitter permet de suivre ce qui se dit à propos d’un produit ou service vendu par une entreprise et peut ainsi aider à détecter les clients en colère. L’entreprise pourra ainsi. 
